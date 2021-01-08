@@ -1,5 +1,15 @@
 {
-  "transactions": [
+    "userData": {
+        "firstName": "Soham",
+        "lastName": "Goswami",
+        "phoneNumber": "9712614142",
+        "emailAddress": "soham@test.com",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "country": "India",
+        "pinCode": "380007"
+    },
+    "transactions": [
       {
           "date": "08-01-2021",
           "operation": "Add",
