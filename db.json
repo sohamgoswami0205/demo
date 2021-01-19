@@ -1,128 +1,39 @@
 {
     "userData": {
-        "firstName": "Human",
-        "lastName": "Cloud",
+        "firstName": "Floyd",
+        "lastName": "Miles",
         "phoneNumber": "9876543210",
-        "emailAddress": "humancloud@test.com",
-        "state": "Pune",
-        "city": "Maharashtra",
-        "country": "India",
-        "pinCode": "411045"
+        "emailAddress": "floydmiles@test.com",
+        "accountType": "Free Account"
     },
-    "minTransactions": [
+    "trainings": [
         {
-            "date": "08-01-2021",
-            "operation": "Add",
-            "description": "Added From Bank",
-            "amount": "25000",
-            "status": "Success"
+            "name": "Box",
+            "club": "Sport Club",
+            "time": "10:00",
+            "warmUpTime": "40",
+            "exerciseName": "Stretch",
+            "exerciseTime": "20"
         },
         {
-            "date": "08-01-2021",
-            "operation": "Add",
-            "description": "Added From Bank",
-            "amount": "11000",
-            "status": "Success"
-        }  
+            "name": "Crossfit",
+            "club": "Sport Club",
+            "time": "12:00",
+            "warmUpTime": "20",
+            "exerciseName": "Pull-ups",
+            "exerciseTime": "20"
+        }
     ],
-    "transactions": [
-      {
-          "date": "08-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "25000",
-          "status": "Success"
-      },
-      {
-          "date": "08-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "11000",
-          "status": "Success"
-      },
-      {
-          "date": "07-01-2021",
-          "operation": "Add",
-          "description": "Added From Bank",
-          "amount": "25000",
-          "status": "Success"
-      },
-      {
-          "date": "07-01-2021",
-          "operation": "Add",
-          "description": "Added From Bank",
-          "amount": "11000",
-          "status": "Success"
-      },
-      {
-          "date": "06-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "25000",
-          "status": "Success"
-      },
-      {
-          "date": "06-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "11000",
-          "status": "Success"
-      },
-      {
-          "date": "05-01-2021",
-          "operation": "Add",
-          "description": "Added From Bank",
-          "amount": "25000",
-          "status": "Success"
-      },
-      {
-          "date": "05-01-2021",
-          "operation": "Add",
-          "description": "Added From Bank",
-          "amount": "11000",
-          "status": "Success"
-      },
-      {
-          "date": "04-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "25000",
-          "status": "Success"
-      },
-      {
-          "date": "04-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "11000",
-          "status": "Success"
-      },
-      {
-          "date": "03-01-2021",
-          "operation": "Add",
-          "description": "Added From Bank",
-          "amount": "25000",
-          "status": "Success"
-      },
-      {
-          "date": "03-01-2021",
-          "operation": "Add",
-          "description": "Added From Bank",
-          "amount": "11000",
-          "status": "Success"
-      },
-      {
-          "date": "02-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "25000",
-          "status": "Success"
-      },
-      {
-          "date": "02-01-2021",
-          "operation": "Add",
-          "description": "Added From Wallet",
-          "amount": "11000",
-          "status": "Success"
-      }
-  ]
+    "trainers": [
+        {
+            "name": "John Kavanagh",
+            "type": "MMA Coach",
+            "active": true
+        },
+        {
+            "name": "Jacob Jones",
+            "type": "Boxing Coach",
+            "active": true
+        }
+    ]
 }
