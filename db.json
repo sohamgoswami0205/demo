@@ -38,12 +38,14 @@
         {
             "name": "John Kavanagh",
             "type": "MMA Coach",
-            "active": true
+            "active": true,
+            "avatar": "User2Avatar"
         },
         {
             "name": "Jacob Jones",
             "type": "Boxing Coach",
-            "active": true
+            "active": true,
+            "avatar": "User3Avatar"
         }
     ]
 }
