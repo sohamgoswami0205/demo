@@ -4,7 +4,17 @@
         "lastName": "Miles",
         "phoneNumber": "9876543210",
         "emailAddress": "floydmiles@test.com",
-        "accountType": "Free Account"
+        "accountType": "Free Account",
+        "notifications": [
+            "Notification 1",
+            "Notification 2",
+            "Notification 3"
+        ]
+    },
+    "healthData": {
+        "hours": "6:25",
+        "bpm": "120",
+        "kcal": "1.84"
     },
     "trainings": [
         {
